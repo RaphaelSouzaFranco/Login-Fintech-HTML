@@ -30,3 +30,46 @@ The login page provides a simple and intuitive interface for users to enter thei
 - **CSS**: Styling language used to describe the presentation of the web page.
 - **Bootstrap**: Front-end framework used to create a responsive design.
 
+
+
+
+
+
+
+## pt-BR
+
+
+# Página de Login Fintech
+
+Este repositório contém o código fonte de uma página de login projetada para uma aplicação fintech. O design é moderno, utilizando HTML, CSS e Bootstrap para criar uma interface responsiva e visualmente atraente.
+
+
+## Sumário
+
+- [Visão Geral](#visão-geral)
+- [Funcionalidades](#Funcionalidades)
+- [Tecnologias Utilizadas](#tecnologias-uttilizadas)
+
+
+## Visão Geral
+
+A página de login oferece uma interface simples e intuitiva para os usuários inserirem seus endereços de e-mail e senhas. O fundo possui um design preto elegante, mantendo uma estética minimalista com elementos de design sutis. Os elementos do formulário estão centralizados na página, garantindo fácil acesso e uma experiência de usuário simplificada. A estilização geral abraça o minimalismo, utilizando uma paleta de cores limitada para criar um visual limpo e moderno, o que aumenta a usabilidade e o apelo visual.
+
+
+
+## Funcionalidades
+
+
+- Design totalmente responsivo: Garantindo a exibição ideal em uma ampla variedade de tamanhos de tela.
+- Fundo preto elegante com estética minimalista: Mantendo o foco nos elementos do formulário.
+- Formulário de login centralizado: Para fácil acesso e uma experiência de usuário simplificada.
+- Botão "Enviar" claro e proeminente: Garantindo um processo de envio de formulário suave.
+
+## Tecnologias Utilizadas
+
+- **HTML**: Linguagem de marcação usada para estruturar o conteúdo da página da web.
+- **CSS**: Linguagem de estilo usada para descrever a apresentação da página da web.
+- **Bootstrap**: Framework front-end usado para criar um design responsivo.
+
+
+
